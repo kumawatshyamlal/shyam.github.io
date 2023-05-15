@@ -1,0 +1,137 @@
+.details-row{
+    display: flex;
+    gap: 1rem;
+    align-items: baseline;
+    margin-bottom: -14px;
+
+}
+
+.my-info-container2{
+    padding:2rem;
+}
+
+.first-left-div{
+    width:50%;
+    background: rgb(108, 163, 108);
+    padding:1rem;
+    /* border-radius:1rem; */
+    height:100vh;
+    float: left;
+    font-size:20px;
+}
+
+.second-reght-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:50%;
+    gap:1rem;
+    height:100vh;
+
+}
+
+.resume-view-btn{
+    width:30%;
+    background:rgb(0, 0, 0);
+    padding:1rem;
+    border-radius: 1rem;
+    text-align: center;
+    height: 2rem;
+    color:white;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.resume-download-btn{
+    width:30%;
+    background:red;
+    padding:1rem;
+    border-radius: 1rem;
+    text-align: center;
+    height: 2rem;
+    font-size:20px;
+    text-decoration: none;
+}
+
+.pic_my{
+    width:10%;
+    /* height:40%; */
+    border-radius: 16%;
+    border:1px solid;
+    color: rgb(0, 0, 0);
+    margin-top:46px;
+    margin-left:20px;
+
+}
+
+.action-btn{
+    display: flex;
+    justify-content: center;
+    gap: 2px;
+    width: 45%;
+    float: right;
+    margin-top: 70px;
+}
+
+.about{
+    display: flex;
+    gap:2rem;
+}
+
+
+
+
+
+
+
+
+/* .home-main {
+    background-image: url('images/kk.webp');
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.about_p {
+    display: flex; 
+    display: flex;
+    flex-direction: column;
+    align-items: self-start;
+    margin-top: 10%;
+    width: 60%; 
+
+    
+}
+
+
+.out_p {
+    font-size: larger;
+    color: rgb(22 0 0);
+    text-align: left;
+    margin: 0px;
+    width: 91%;
+    margin-right: 17%;
+    
+} */
+
+/* .pic_my {
+    width:55%;
+    height: 71%;
+    margin-left: 28%;
+    border-radius: 4%;
+    margin-top: 6%;
+    background-color: transparent;
+    border-radius: 60%;
+} */
+/* 
+.my-info-container {
+    display: flex;
+    padding: 6rem;
+} */
+
+/* .mypic {
+    width: 40%;
+    
+}  */
+

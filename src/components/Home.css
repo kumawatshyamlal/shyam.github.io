@@ -1,0 +1,61 @@
+.home {
+    background-image: url('./images/hhh.jpg');
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    align-items: self-start;
+    margin-top: 10%;
+    width: 60%;
+
+}
+
+.me {
+    float: left;
+    font-size:40px;
+    margin-right:50%;
+    margin-top: -11%;
+    width: 40%;
+}
+
+.about.p {
+    text-align: left;
+
+}
+
+.my_pic {
+    width:55%;
+    height: 71%;
+    margin-left: 28%;
+    border-radius: 4%;
+    margin-top: 6%;
+    background-color: transparent;
+    border-radius: 60%;
+}
+
+.cotainer {
+    display: flex;
+    padding: 6rem;
+}
+
+.pp {
+    font-size: larger;
+    color: rgb(22 0 0);
+    text-align: left;
+    margin: 0px;
+    width: 91%;
+    margin-right: 17%;
+
+}
+
+.img_div {
+    width: 40%;
+}
+
+/* contect button start */
